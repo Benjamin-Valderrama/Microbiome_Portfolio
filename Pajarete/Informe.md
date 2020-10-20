@@ -46,7 +46,7 @@ manipulate and potentiate wine’s organoleptic properties or to enhance
 its regionalized origin; being both scenarios capable increase its
 market value (Sirén et al., 2019; Varela & Borneman, 2017). As
 consequence, because of a wider knowledge of the microbiota associated
-with the production chain, huge business opportunities can be opened
+with the production chain, huge business opportunities can be opened.
 
 In particular, the ‘pajarete’ is a sweet red wine which is produced,
 commercialized and consumed in small quantities (Castro et al., 2016).
