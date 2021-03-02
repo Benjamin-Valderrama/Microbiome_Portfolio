@@ -1,4 +1,4 @@
 README
 ================
 
-Repository with Benjamín Valderrama’s bioinformatic projects
+Here you can find some bioinformatics projects and pieces of code used in papers
