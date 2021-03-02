@@ -170,7 +170,6 @@ JF and VG vineyards, by phylum:
 ![Alt
 text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/abund_phylum.png)
 
-(C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/abund_phylum.png)
 
   - **Relative abundance of the bacterial community within JF and VG
     vineyards, by family:**
@@ -193,7 +192,7 @@ Fig 2: Barplot of relative abundances of the bacterial community within
 JF and VG vineyards, by family:
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/abund_familia.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/abund_familia.png)
 
   - **Alpha diversity of the microbiota associated in JF and VG
     ‘pajarete’ producers**
@@ -211,7 +210,7 @@ Fig 3: Alpha diversity of the communities present in JF and VG vineyards
 mesured as Observed diversity, Chao1 index and Shannon diversity
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/alpha_div_todas_las_muestras.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/alpha_div_todas_las_muestras.png)
 
 Figure 4 shows alpha diversities of the producers after removal of JF1
 and VG1 samples, both corresponding to “Before grinding” phase of the
@@ -228,7 +227,7 @@ after the removal of “Before grinding” samples, mesured as Observed
 diversity, Chao1 index and Shannon diversity
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/alpha_div_solo_prod.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/alpha_div_solo_prod.png)
 
   - **Beta diversity of the microbiota associated in JF and VG
     ‘pajarete’ producers**
@@ -251,7 +250,7 @@ Fig 5: Beta diversity for samples of two vineyards measured with UNIFRAC
 and Bray-Curtis methods:
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/PCoA_b-diversity_etapas.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/PCoA_b-diversity_etapas.png)
 
   - **Taxonomic features associated with each production processes:**
 
@@ -265,7 +264,7 @@ Fig 6: Specific taxonomic features identified in each of both production
 processes; JF and VG.
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/Galaxy42.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/Galaxy42.png)
 
 Also with LefSe, the phylogenetic relationships of bacteira founded
 within samples of each producer of wine. This result was depicted in
@@ -277,7 +276,7 @@ Fig 7:Phylogenetic relationships between bacteria associated with each
 of both production processes; JF and VG.
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/Galaxy43.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/Galaxy43.png)
 
   - **Metabolic pathways inference:**
 
@@ -294,7 +293,7 @@ VG production chains. This pathways were inferred from the 16S rRNA
 sampled data.
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/Pathways_clean.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/Pathways_clean.png)
 
 <font size="5"> **Discussion** </font>
 
