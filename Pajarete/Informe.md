@@ -168,7 +168,9 @@ Fig 1: Barplot of relative abundances of the bacterial community within
 JF and VG vineyards, by phylum:
 
 ![Alt
-text](C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/abund_phylum.png)
+text](https://github.com/Benjamin-Valderrama/Microbiome_Portfolio/blob/master/Pajarete/Resultados/abund_phylum.png)
+
+(C:/Users/Acer/Documents/Microbiome_Portfolio/Pajarete/Resultados/abund_phylum.png)
 
   - **Relative abundance of the bacterial community within JF and VG
     vineyards, by family:**
